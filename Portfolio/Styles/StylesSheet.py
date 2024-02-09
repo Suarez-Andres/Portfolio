@@ -4,7 +4,7 @@ import reflex as rx
 #Constants
 class cons(Enum):
     MAIL="suareza611@hotmail.com"
-    LINKEDIN_URL="https://www.linkedin.com/in/andrés-suárez-747922255"
+    LINKEDIN_URL="https://www.linkedin.com/in/suarezandres1profile/"
     GITHUB_URL="https://github.com/Suarez-Andres"
 
 #Sizes

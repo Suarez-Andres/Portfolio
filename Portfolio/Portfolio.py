@@ -55,8 +55,8 @@ def index():
                         rx.heading("Certificates"),
                         rx.text("""To see a certificate, click on the corresponding button."""),
                         rx.list(
-                            rx.list_item(comp.link_text_button("🔴 CS50P - Harvard", "Certificado CS50P.pdf")),
-                            rx.list_item(comp.link_text_button("🔴 CS50X - Harvard", "Certificado CS50x.pdf")),
+                            rx.list_item(comp.link_text_button("🔴 CS50P - Harvard", "certificado CS50P.pdf")),
+                            rx.list_item(comp.link_text_button("🔴 CS50X - Harvard", "certificado CS50x.pdf")),
                             rx.list_item(comp.link_text_button("🔴 CS50AI - Harvard","CertificadoCS50AI.pdf")),
                             rx.list_item(comp.link_text_button("🔵 Sololearn - Python Intermediate","certificadoPythonIntermedio.pdf")),
                             rx.list_item(comp.link_text_button("🔵 Sololearn - Python Developer", "certificadoPythonDeveloper.pdf")),
@@ -162,8 +162,8 @@ def index():
                         rx.heading("Certificates"),
                         rx.text("""To see a certificate, click on the corresponding button."""),
                         rx.list(
-                            rx.list_item(comp.link_text_button("🔴 CS50P - Harvard", "Certificado CS50P.pdf")),
-                            rx.list_item(comp.link_text_button("🔴 CS50X - Harvard", "Certificado CS50x.pdf")),
+                            rx.list_item(comp.link_text_button("🔴 CS50P - Harvard", "certificado CS50P.pdf")),
+                            rx.list_item(comp.link_text_button("🔴 CS50X - Harvard", "certificado CS50x.pdf")),
                             rx.list_item(comp.link_text_button("🔴 CS50AI - Harvard","CertificadoCS50AI.pdf")),
                             rx.list_item(comp.link_text_button("🔵 Sololearn - Python Intermediate","certificadoPythonIntermedio.pdf")),
                             rx.list_item(comp.link_text_button("🔵 Sololearn - Python Developer", "certificadoPythonDeveloper.pdf")),
