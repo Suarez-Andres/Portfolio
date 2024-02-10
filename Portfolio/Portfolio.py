@@ -23,6 +23,7 @@ def index():
                         rx.unordered_list(
                             rx.list_item("Python"),
                             rx.list_item("C / C++"),
+                            rx.list_item("Flask"),
                             rx.list_item("Basic HTML and SQL")
                         ),
                         rx.heading("Soft skills", size="lg"),
