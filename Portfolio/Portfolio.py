@@ -15,7 +15,7 @@ def index():
                         rx.hstack(
                             comp.link_icon_button("linkedin.svg",ss.cons.LINKEDIN_URL.value),
                             comp.link_icon_button("github.svg",ss.cons.GITHUB_URL.value),
-                            comp.link_icon_button("cv.svg","Resume.pdf")
+                            comp.link_icon_button("cv.svg","r.pdf")
                         ),
                     ),
                     footer=rx.vstack(
@@ -123,7 +123,7 @@ def index():
                         rx.hstack(
                             comp.link_icon_button("linkedin.svg",ss.cons.LINKEDIN_URL.value),
                             comp.link_icon_button("github.svg",ss.cons.GITHUB_URL.value),
-                            comp.link_icon_button("cv.svg","Resume.pdf")
+                            comp.link_icon_button("cv.svg","r.pdf")
                         ),
                     ),
                     footer=rx.vstack(
